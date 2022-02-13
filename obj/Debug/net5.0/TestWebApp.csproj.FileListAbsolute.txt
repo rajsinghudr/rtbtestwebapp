@@ -1,0 +1,80 @@
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\bin\Debug\net5.0\appsettings.Development.json
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\bin\Debug\net5.0\appsettings.json
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\bin\Debug\net5.0\TestWebApp.exe
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\bin\Debug\net5.0\TestWebApp.deps.json
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\bin\Debug\net5.0\TestWebApp.runtimeconfig.json
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\bin\Debug\net5.0\TestWebApp.runtimeconfig.dev.json
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\bin\Debug\net5.0\TestWebApp.dll
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\bin\Debug\net5.0\ref\TestWebApp.dll
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\bin\Debug\net5.0\TestWebApp.pdb
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\bin\Debug\net5.0\TestWebApp.Views.dll
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\bin\Debug\net5.0\TestWebApp.Views.pdb
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.csproj.AssemblyReference.cache
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.AssemblyInfoInputs.cache
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.AssemblyInfo.cs
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.csproj.CoreCompileInputs.cache
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.MvcApplicationPartsAssemblyInfo.cache
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.RazorAssemblyInfo.cache
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.RazorAssemblyInfo.cs
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\staticwebassets\TestWebApp.StaticWebAssets.Manifest.cache
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\staticwebassets\TestWebApp.StaticWebAssets.xml
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\scopedcss\bundle\TestWebApp.styles.css
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.TagHelpers.input.cache
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.TagHelpers.output.cache
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.RazorCoreGenerate.cache
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.RazorTargetAssemblyInfo.cache
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.RazorTargetAssemblyInfo.cs
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.Views.pdb
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.dll
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\ref\TestWebApp.dll
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.pdb
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.genruntimeconfig.cache
+E:\TestAWSPipeline\TestAWSPipelineRepo\TestWebApp\obj\Debug\net5.0\TestWebApp.csproj.CopyComplete
+D:\RTB ArchitecturePattern\TestWebApp\bin\Debug\net5.0\appsettings.Development.json
+D:\RTB ArchitecturePattern\TestWebApp\bin\Debug\net5.0\appsettings.json
+D:\RTB ArchitecturePattern\TestWebApp\bin\Debug\net5.0\TestWebApp.exe
+D:\RTB ArchitecturePattern\TestWebApp\bin\Debug\net5.0\TestWebApp.deps.json
+D:\RTB ArchitecturePattern\TestWebApp\bin\Debug\net5.0\TestWebApp.runtimeconfig.json
+D:\RTB ArchitecturePattern\TestWebApp\bin\Debug\net5.0\TestWebApp.runtimeconfig.dev.json
+D:\RTB ArchitecturePattern\TestWebApp\bin\Debug\net5.0\TestWebApp.dll
+D:\RTB ArchitecturePattern\TestWebApp\bin\Debug\net5.0\ref\TestWebApp.dll
+D:\RTB ArchitecturePattern\TestWebApp\bin\Debug\net5.0\TestWebApp.pdb
+D:\RTB ArchitecturePattern\TestWebApp\bin\Debug\net5.0\TestWebApp.Views.dll
+D:\RTB ArchitecturePattern\TestWebApp\bin\Debug\net5.0\TestWebApp.Views.pdb
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.csproj.AssemblyReference.cache
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.AssemblyInfoInputs.cache
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.AssemblyInfo.cs
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.csproj.CoreCompileInputs.cache
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.RazorAssemblyInfo.cache
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.RazorAssemblyInfo.cs
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\staticwebassets\TestWebApp.StaticWebAssets.Manifest.cache
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\staticwebassets\TestWebApp.StaticWebAssets.xml
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\scopedcss\bundle\TestWebApp.styles.css
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.TagHelpers.input.cache
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.TagHelpers.output.cache
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.RazorCoreGenerate.cache
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.RazorTargetAssemblyInfo.cache
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.RazorTargetAssemblyInfo.cs
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.Views.pdb
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.dll
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\ref\TestWebApp.dll
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.pdb
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.genruntimeconfig.cache
+D:\RTB ArchitecturePattern\TestWebApp\obj\Debug\net5.0\TestWebApp.csproj.CopyComplete
